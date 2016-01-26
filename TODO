@@ -1,0 +1,21 @@
+THINGS TO DO
+ - IMPORT ANGULAR JS
+ - IMPLEMENT CONTROLLERS
+ - IMPLEMENT NG-VIEW
+ - TABLE VIEW
+ - CR CREATION
+ - CR DELETION
+ - 
+
+
+
+{ 
+	"Date": "01/01/2016",
+	"SR number": 608254128,
+	"Team": "CO-SECURITY", 
+	"Review reason": "Technichal", 
+	"Topic": "ASA configuration", 
+	"sub-Topic": "Failover configuration", 
+	"Level of Expertize": 5,
+	"Review": "You should always remember that both devices must have the same configuration."
+}
